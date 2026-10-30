@@ -20,8 +20,7 @@ public class Asiento4D extends Asiento {
     // Implementación del método abstracto para calcular el precio base del asiento 4D
 
     @Override
-    public double calcularPrecioBase(double precioFuncion) {
-        // Suma el precio de la función más el recargo por efectos 4D
+    public double calcularPrecioBase(double precioFuncion) {        
         return precioFuncion + recargo4D;
     }
 
