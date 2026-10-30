@@ -1,4 +1,4 @@
-package Nucleo;
+package Asientos;
 
 //el siento standar es el asiento base, no tiene recargos ni beneficios adicionales,
 // solo cumple con la función de sentarse y ver la película

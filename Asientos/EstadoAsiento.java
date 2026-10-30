@@ -1,4 +1,4 @@
-package Nucleo;
+package Asientos;
 
 //Lista de Estados para un Asiento
 

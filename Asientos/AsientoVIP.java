@@ -1,4 +1,4 @@
-package Nucleo;
+package Asientos;
 
 //el asiento VIP ofrece beneficios adicionales,
 // como espacio extra y recargos exclusivos

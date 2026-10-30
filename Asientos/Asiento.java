@@ -1,4 +1,4 @@
-package Nucleo;
+package Asientos;
 
 //Superclase Asiento con comportamientos bases
 

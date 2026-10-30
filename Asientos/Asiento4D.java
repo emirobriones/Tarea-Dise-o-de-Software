@@ -1,4 +1,4 @@
-package Nucleo;
+package Asientos;
 
 //el asiento 4D ofrece una experiencia inmersiva con efectos especiales,
 // y tiene un recargo adicional por esta característica
