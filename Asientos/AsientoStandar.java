@@ -21,7 +21,5 @@ public class AsientoStandar extends Asiento {
 
     // Getters
 
-    public String getDescripcionClasica() {
-        return descripcionClasica;
-    }
+    public String getDescripcionClasica() { return descripcionClasica; }
 }

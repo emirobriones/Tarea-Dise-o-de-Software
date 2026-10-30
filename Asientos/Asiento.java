@@ -29,10 +29,8 @@ public abstract class Asiento {
     public abstract double calcularPrecioBase(double precioFuncion);
 
     // Getters
-
+    
     public int getNumeroAsiento() { return numeroAsiento; }
-
     public char getFila() { return fila; }
-
     public EstadoAsiento getEstado() { return estado; }
 }

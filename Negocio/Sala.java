@@ -39,6 +39,7 @@ public class Sala {
     }
 
     // Getters
+    
     public String getIdSala() { return idSala; }
     public String getNombreSala() { return nombreSala; }
     public int getCapacidadTotal() { return capacidadTotal; }

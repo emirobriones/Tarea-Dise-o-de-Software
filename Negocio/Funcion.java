@@ -28,12 +28,14 @@ public class Funcion {
     }
 
     // Getters
+
     public String getPelicula() { return pelicula; }
     public LocalDateTime getHorario() { return horario; }
     public double getPrecioBase() { return precioBase; }
     public Sala getSala() { return sala; }
     
     // Setters
+    
     public void setPrecioBase(double precioBase) {
         this.precioBase = precioBase;
     }

@@ -28,5 +28,4 @@ public class Asiento4D extends Asiento {
 
     public boolean isEfectosEspecialesActivos() { return efectosEspecialesActivos;}
     public double getRecargo4D() { return recargo4D; }
-
 }

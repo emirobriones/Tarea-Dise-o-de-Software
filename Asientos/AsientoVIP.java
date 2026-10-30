@@ -25,5 +25,4 @@ public class AsientoVIP extends Asiento {
 
     public boolean isEspacioExtra() { return espacioExtra;}
     public double getRecargoVIP() {return recargoVIP; }
-
 }

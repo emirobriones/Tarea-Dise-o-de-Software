@@ -27,6 +27,7 @@ public class ReporteSoporte {
     }
 
     // Getters
+    
     public String getIdReporte() { return idReporte; }
     public String getDescripcion() { return descripcion; }
     public String getEstadoReporte() { return estadoReporte; }
